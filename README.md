@@ -67,7 +67,7 @@ The project uses the **Road Segmentation: Boston & Los Angeles** dataset from Ka
 
 Dataset: [Road Segmentation — Boston & Los Angeles](https://www.kaggle.com/datasets/timothlaborie/roadsegmentation-boston-losangeles)
 
-After downloading and splitting the dataset, organize it as follows:
+Organized as follows:
 
 ```text
 data/
