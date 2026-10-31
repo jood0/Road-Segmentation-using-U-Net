@@ -103,14 +103,3 @@ Road segmentation is highly imbalanced because background pixels significantly o
 
 This combination improved the model's ability to identify narrow and connected road structures.
 
-## Contributors
-
-- Jood Alhenaki
-- Jovin Louie
-- Logan Tomasetti
-
-## Course Information
-
-**ECS 174: Computer Vision**  
-University of California, Davis  
-Fall 2025
